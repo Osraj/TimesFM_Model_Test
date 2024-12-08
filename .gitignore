@@ -1,2 +1,2 @@
 -r __pycache__/
-*.pyc/n.env/nmodel_checkpoints/
+*.ipynb_checkpoints\n.env\nmodel_checkpoints/
