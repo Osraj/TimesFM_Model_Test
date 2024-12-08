@@ -1,0 +1,2 @@
+-r __pycache__/
+*.pyc/n.env/nmodel_checkpoints/
